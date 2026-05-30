@@ -11,7 +11,7 @@ Latest Version Android Studio
 
 ## ALGORITHM:
 
-```
+
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as ImplicitIntent and click Next.
@@ -26,7 +26,6 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-```
 
 ## PROGRAM:
 ```
